@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Practical1"
 include(":app")
+include(":constraintapp")
