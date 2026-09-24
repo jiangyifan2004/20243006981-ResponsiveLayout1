@@ -16,4 +16,6 @@
 # Generated Android and Kotlin build artifacts
 .kotlin/
 **/build/
+/.idea/
+/gradle/wrapper/*.bak*
 local.properties
